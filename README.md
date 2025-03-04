@@ -35,20 +35,6 @@ The AI-Powered Virtual Calculator is an innovative application that allows users
    streamlit run main.py
   
 
-## Usage
-
-1. Run the application using Streamlit.
-2. Use your webcam to display hand gestures for mathematical operations.
-3. The system detects gestures, processes them, and displays the result in real-time.
-4. Detailed mathematical explanations are provided using Gemini's API.
-
-## Future Improvements
-
-- Support for additional mathematical operations.
-- Enhanced hand gesture recognition using deep learning.
-- Improved UI with interactive elements.
-- Offline computation support.
-
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE).
