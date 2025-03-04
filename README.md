@@ -53,10 +53,6 @@ The AI-Powered Virtual Calculator is an innovative application that allows users
 
 This project is open-source and available under the [MIT License](LICENSE).
 
-## Contributors
-
-- Your Name (@your-github-handle)
-
 ## Acknowledgments
 
 Special thanks to OpenAI, Google Gemini, and the OpenCV community for their resources and contributions.
