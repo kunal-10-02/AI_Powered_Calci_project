@@ -33,6 +33,16 @@ The AI-Powered Virtual Calculator is an innovative application that allows users
 3. Run the application:
 
    streamlit run main.py
+
+## Working
+
+1. The system captures real-time hand gestures using OpenCV and processes them into recognizable mathematical symbols.
+
+2. The detected gestures are converted into mathematical expressions.
+
+3. These expressions are sent to the Gemini API for computation and detailed explanation.
+
+4. The results are displayed on the Streamlit interface in real time.
   
 
 ## License
@@ -43,3 +53,8 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 Special thanks to OpenAI, Google Gemini, and the OpenCV community for their resources and contributions.
 
+## Contatct Us
+
+kalpanil22kanbarkar@gmail.com
+nachiketpatil22600@gmail.com
+kunaldeshinge@gmail.com
