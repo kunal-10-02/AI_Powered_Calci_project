@@ -1,0 +1,6 @@
+opencv-python
+mediapipe
+streamlit
+streamlit-extras
+numpy
+google-generativeai

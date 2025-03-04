@@ -1,0 +1,10 @@
+
+
+
+[theme]
+base = "White"
+primaryColor = "#1DB954"  # Spotify green
+backgroundColor = "#FFFFFF"  # Deep black
+secondaryBackgroundColor = "#FFFFFF"  # Dark gray
+textColor = "#121212"  # White text
+font = "monospace"
